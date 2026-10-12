@@ -2,7 +2,7 @@
 
 **Last updated:** 12 October 2026
 
-This Privacy Policy applies to **GPS Camera Stamp - No Ads** for Android.
+This Privacy Policy applies to **GPS Camera Stamp** for Android.
 
 The app is a camera utility for capturing photos and videos with optional GPS, address, date/time, map, QR, and related stamp information.
 
