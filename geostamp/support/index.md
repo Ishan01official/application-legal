@@ -1,6 +1,6 @@
-# Support — GPS Camera Stamp - No Ads
+# Support — GPS Camera Stamp
 
-For help with **GPS Camera Stamp - No Ads**, please use the options below.
+For help with **GPS Camera Stamp**, please use the options below.
 
 ## Before reporting a problem
 
