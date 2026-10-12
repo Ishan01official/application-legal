@@ -1,5 +1,4 @@
-# Privacy Policy — GPS Camera Stamp - No Ads
-
+# Privacy Policy — GPS Camera Stamp
 **Last updated:** 12 October 2026
 
 This Privacy Policy applies to **GPS Camera Stamp** for Android.
@@ -88,7 +87,7 @@ The developer does not sell your personal information.
 
 ## Children
 
-GPS Camera Stamp - No Ads is a general-purpose camera utility and is not specifically directed at children.
+GPS Camera Stamp is a general-purpose camera utility and is not specifically directed at children.
 
 ## Data retention
 
