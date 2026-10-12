@@ -6,7 +6,7 @@ Public legal, privacy, and support pages for my mobile and web applications.
 
 ### GPS Camera Stamp - No Ads
 
-- [Privacy Policy](./geostamp/privacy.md)
-- [Support](./geostamp/support.md)
+- [Privacy Policy](./geostamp/privacy/)
+- [Support](./geostamp/support/)
 
 More application legal pages may be added here in the future.
