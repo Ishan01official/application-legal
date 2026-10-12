@@ -4,7 +4,7 @@ Public legal, privacy, and support pages for my mobile and web applications.
 
 ## Applications
 
-### GPS Camera Stamp - No Ads
+### GPS Camera Stamp
 
 - [Privacy Policy](./geostamp/privacy/)
 - [Support](./geostamp/support/)
